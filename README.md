@@ -5,7 +5,7 @@
 | Keys    | Actions                        |
 |---------|--------------------------------|
 | W or ↑  | Navigation Up                  |
-| S or ↓  | Navigatin Down                 |
+| S or ↓  | Navigation Down                |
 | A or ←  | Navigation Left                |
 | D or →  | Navigation Right               |
 | Enter   | Equip Dogtag, Track Assignment |
