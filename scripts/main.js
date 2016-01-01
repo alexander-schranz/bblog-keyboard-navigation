@@ -1,7 +1,7 @@
 /**
  * @author Lexo91
  * @version 1.0
- * @url https://gist.github.com/alexander-schranz/d70b3759857382b99b1a
+ * @url https://github.com/alexander-schranz/bblog-keyboard-navigation
  * @license https://opensource.org/licenses/MIT
  */
 
